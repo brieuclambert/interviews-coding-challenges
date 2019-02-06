@@ -33,7 +33,6 @@ Bonus Points :
 
 ## Tooling
 
-- You must use **RSpec** for TDD (focus on acceptance and integration tests)
 - You can use **Postman** to test out your API
 - You can use any convenient gems you may need
 - Your code must be available on **GitHub / Gitlab**
