@@ -1,8 +1,8 @@
 # Context
 
 AB Tasty is a growing company accompanying hundreds of clients worldwide.
-As teams and clients portfolios are expanding, we need to track te time our dedicated 
-consultant spend on each of our clients. We used to write all of this on spreadsheets but 
+As teams and clients portfolios are expanding, we need to track the time our dedicated 
+consultant spend with each of our clients. We used to write all of this on spreadsheets but 
 it's getting hard to keep track of everything and to analyse all the data (more than 
 100 000 lines every year). 
 
