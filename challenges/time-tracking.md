@@ -11,7 +11,7 @@ to track the time they spend with their clients.
 
 # Goal
 
-You'll cover some basics about API design and TDD.
+You'll cover some basics about API design.
 As such, you'll focus only on the backend of the application.
 Others will build apps later, using your API as backbone.
 
@@ -26,9 +26,6 @@ The following user stories describe what should be possible to do through this A
 - A consultant can delete a time entry he owns
 - A consultant can view all the tasks he performed this calendar week
 
-Bonus Points : 
-- Acceptance tests for all the routes
-
 # Constraints
 
 ## Tooling
@@ -36,7 +33,6 @@ Bonus Points :
 - You can use **Postman** to test out your API
 - You can use any convenient gems you may need
 - Your code must be available on **GitHub / Gitlab**
-- The API must be deployed on **Heroku**
 
 ## Timeline
 
