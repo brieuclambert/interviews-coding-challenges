@@ -33,7 +33,4 @@ The following user stories describe what should be possible to do through this A
 - You can use **Postman** to test out your API
 - You can use any convenient gems you may need
 - Your code must be available on **GitHub / Gitlab**
-
-## Timeline
-
-Our employees are expecting to be able to use this app in 1 week. Move fast hombre!
+- Your app must be hosted on **Heroku / Google Cloud Platform**
